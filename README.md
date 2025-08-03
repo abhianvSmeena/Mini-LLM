@@ -12,7 +12,7 @@ This project demonstrates how to fine-tune a small GPT-2 language model using Hu
 ## Files
 
 - `Custom_mini_LLM.ipynb`: Main notebook containing code, training logic, and outputs.
-- (Optional) `requirements.txt`: List of dependencies for setup.
+- `requirements.txt`: List of dependencies for setup.
 
 ## Setup Instructions
 
