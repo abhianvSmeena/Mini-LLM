@@ -20,4 +20,4 @@ This project demonstrates how to fine-tune a small GPT-2 language model using Hu
 
 ```bash
 git clone https://github.com/abhianvSmeena/Custom_mini_LLM.git
-cd Mini-LLM
+cd Custom_mini_LLM
