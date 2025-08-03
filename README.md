@@ -1,5 +1,3 @@
-# Mini-LLM
-
 # Custom Mini GPT-2 Language Model
 
 This project demonstrates how to fine-tune a small GPT-2 language model using Hugging Face's `transformers` library and PyTorch. It provides a hands-on introduction to the complete workflow of building a basic language model: from preprocessing and training to text generation.
